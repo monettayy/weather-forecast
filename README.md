@@ -4,6 +4,10 @@ Backend: [Laravel 5.8](https://laravel.com/docs/5.8/readme)
 
 Frontend: [VueJS v2](https://v2.vuejs.org/)
 
+    Started:  8/16/2022 6:30PM
+    Finished: 8/17/2022 8:50PM
+    Total: 1 day, 2 hours, 20 minutes
+
 
 # Getting Started
 
@@ -40,3 +44,14 @@ Go to the .env File and put your API Key from AccuWeather
 
     ACCUWEATHER_API_KEY=your-api-key-here
 
+
+# Testing
+## Sample Output
+Large Screen
+![Large Screen](external/images/lg.PNG)
+
+Medium Screen
+![Medium Screen](external/gifs/md.gif)
+
+Small Screen
+![Small Screen](external/gifs/sm.gif)
